@@ -1,0 +1,5 @@
+.env
+.env.*
+chanakya_data/
+__pycache__/
+*.pyc
